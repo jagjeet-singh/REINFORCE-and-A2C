@@ -8,3 +8,7 @@ Requirements:
 2. PyTorch
 3. TensorFlow
 4. Open AI Gym
+
+Trained Model on Lunar Lander:
+
+![alt text](results/ll.gif)
